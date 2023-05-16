@@ -14,16 +14,16 @@
 This application will store data in the back-end for an e-commerce website.
 
 ## Installation
-This app requires an installation of express, jshint, mysql2 and inquirer. All you need to do when you download the app is to run an 'npm install' and the ncessary packages will be installed for you. You can see this in the video link below in the 'usage' section of this README.md file.
+This app requires an installation of express, mysql2 and sequelize. All you need to do when you download the app is to run an 'npm install' and the ncessary packages will be installed for you. You can see this in the video link below in the 'usage' section of this README.md file.
 
 ## Usage
-To use this application, refer to the installation instructions beforehand. Once you have installed what you require, in your integrated termainal, type 'node server.js' and hit enter. You will then be presented with a list of options to choose from. Navigate through them using the arrow keys on your keyboard. Below is a video link to assist:
+To use this application, refer to the installation instructions beforehand. Once you have installed what you require, in your integrated termainal, type 'node server.js' and hit enter. You will then be able to open Insomnia. Below is a video link to assist:
 
-https://watch.screencastify.com/v/BIeN5IEuMhEAMYIFBrH4
+
 
 ## Links
 
-https://github.com/RyanGolder/employee-database
+https://github.com/RyanGolder/ecommerce-back-end
 
 ## Contributing
 If you wish to contribute to this employee database manager, please refer to the following: 

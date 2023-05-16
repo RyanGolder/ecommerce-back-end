@@ -24,7 +24,7 @@ router.get('/:id', async (req, res) => {
   // be sure to include its associated Category and Tag data
   try {
     const productData = await Product.findOne({
-      where: req.params.id,
+      where: {id: req.params.id},
       include: [Category],
     });
     if (!productData) {
