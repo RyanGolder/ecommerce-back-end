@@ -19,7 +19,7 @@ This app requires an installation of express, mysql2 and sequelize. All you need
 ## Usage
 To use this application, refer to the installation instructions beforehand. Once you have installed what you require, in your integrated termainal, type 'node server.js' and hit enter. You will then be able to open Insomnia. Below is a video link to assist:
 
-
+https://watch.screencastify.com/v/r8xHjAAdA06hNeBdQNwF
 
 ## Links
 
